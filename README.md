@@ -1,10 +1,9 @@
-# AirBNB-Clone-
-
-PROJECT OVERVIEW
+# AirBnB-Clone-Project
+PROJECT OVERVIEW:
 This project involves building a full-stack clone of the AirBnB platform, focusing on replicating core functionalities such as browsing property listings, viewing details, and completing bookings. The application will be developed using modern web technologies and will include frontend design, backend APIs, database integration, and deployment.
 The aim is to provide a hands-on experience in building scalable web applications, applying best practices in UI/UX, and working collaboratively within a team environment.
 
-TECH STACKS
+TECH STACKS-
 Frontend: HTML, CSS, JavaScript (React or similar framework)
 Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
